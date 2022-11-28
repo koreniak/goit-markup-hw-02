@@ -154,6 +154,10 @@ body {
     background-color: var(--light-color);
 }
 
+.team-item {
+    background-color: var(--white-color);
+}
+
 /* Footer */
 
 .footer {
